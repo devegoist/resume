@@ -1,5 +1,4 @@
 # R:esume
----
 ## 김은수 EunSoo Kim
 ### Backend Developer
 * Email : devegoist@gmail.com
@@ -17,12 +16,10 @@
     * Backend Developer
 
 ## 단체 경력
----
 * ### 한국 EMC - 빅데이터 Java Application 개발자 양성
     * 2014.08 ~ 2014.10
 
 ## 프로젝트 이력
----
 ### 다방 
 * 소속 : Station3
 * 역할 : 서버 개발
@@ -39,7 +36,6 @@
 
 
 ## 개인 프로젝트 기여
----
 ### CoinPush Server & App
 * 개인 프로젝트
 * 비트코인 시세 변동 알림 애플리케이션
@@ -51,8 +47,8 @@
 * 미세먼지 알림 애플리케이션
 * 서버(100%) 서버운영(100%)
 * 관련기술 : SpringBoot, EB, RDS, Postgresql, PostGis, Spring-Data-Jpa
-* PlayStore(https://play.google.com/store/apps/details?id=com.ryoobk.dustdust&hl=ko)
-* AppStore(https://itunes.apple.com/kr/app/dust/id1434796687?mt=8)
+* PlayStore (https://play.google.com/store/apps/details?id=com.ryoobk.dustdust&hl=ko)
+* AppStore (https://itunes.apple.com/kr/app/dust/id1434796687?mt=8)
 
 
 
