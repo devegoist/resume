@@ -5,8 +5,7 @@
 * Github : https://github.com/devegoist
 * LinkedIn : https://linkedin.com/in/devegoist
 
-##경력
----
+## 경력
 * ### Station3 - 다방
     * 2016.08 ~ 현재
     * Backend Developer
@@ -43,12 +42,13 @@
 * 관련기술 : NodeJs, ReactNative, Postgresql, socket-Io, Firebase, Heroku, Compose-Io
 
 ### Dust App (미세먼지)
+![다방 BI](Resume/resources/dabang bi round.jpg)
 * 팀 프로젝트
 * 미세먼지 알림 애플리케이션
 * 서버(100%) 서버운영(100%)
 * 관련기술 : SpringBoot, EB, RDS, Postgresql, PostGis, Spring-Data-Jpa
-* PlayStore (https://play.google.com/store/apps/details?id=com.ryoobk.dustdust&hl=ko)
-* AppStore (https://itunes.apple.com/kr/app/dust/id1434796687?mt=8)
+* PlayStore(https://play.google.com/store/apps/details?id=com.ryoobk.dustdust&hl=ko)
+* AppStore(https://itunes.apple.com/kr/app/dust/id1434796687?mt=8)
 
 
 
