@@ -19,7 +19,7 @@
     * 2014.08 ~ 2014.10
 
 ## 프로젝트 이력
-<img src="./resources/dabang bi round.jpg" width="8%" />
+<img src="./resources/dabang_icon.png" width="8%" />
 
 ### 다방 
 * 소속 : Station3
