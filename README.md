@@ -73,16 +73,12 @@
 * 개발(20%) 운영(80%) 및 코인 도입, 기능 개선
 * 관련기술 : NodeJs, ReactNative, Postgresql, socket-Io, Firebase, Heroku, Compose-Io
 
-<img src="./resources/coinpush_1.png" width="20%" />
-<img src="./resources/coinpush_2.png" width="20%" />
-<img src="./resources/coinpush_3.png" width="20%" />
-<img src="./resources/coinpush_4.png" width="20%" />
-<img src="./resources/coinpush_5.png" width="20%" />
+<img src="./resources/coinpush_1.png" width="20%" /> <img src="./resources/coinpush_2.png" width="20%" /> <img src="./resources/coinpush_3.png" width="20%" /> <img src="./resources/coinpush_4.png" width="20%" /> <img src="./resources/coinpush_5.png" width="20%" />
 
 ---
 
 <br />
-<img src="./resources/coinpush_icon.png" width="8%" />
+<img src="./resources/dust_icon.png" width="8%" />
 
 ### Dust App (미세먼지)
 * 팀 프로젝트
@@ -92,11 +88,5 @@
 * PlayStore(https://play.google.com/store/apps/details?id=com.ryoobk.dustdust&hl=ko)
 * AppStore(https://itunes.apple.com/kr/app/dust/id1434796687?mt=8)
 
-<img src="./resources/dust_1.png" width="20%" />
-<img src="./resources/dust_2.png" width="20%" />
-<img src="./resources/dust_3.png" width="20%" />
-<img src="./resources/dust_4.png" width="20%" />
-
-
-
+<img src="./resources/dust_1.jpg" width="20%" /> <img src="./resources/dust_2.png" width="20%" /> <img src="./resources/dust_3.jpg" width="20%" /> <img src="./resources/dust_4.jpg" width="20%" />
 
