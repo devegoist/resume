@@ -20,9 +20,9 @@
     * 사용기술 : Spring, Mybatis, Hadoop 등
 
 ## 프로젝트 이력
+### 다방 
 <img src="./resources/dabang_icon.png" width="8%" />
 
-### 다방 
 * 소속 : Station3
 * 역할 : 서버 개발
 * 사용기술 : SpringBoot, Postgresql, ElasticSearch, Mybatis, Swaggar 등
