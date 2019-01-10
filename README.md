@@ -85,7 +85,7 @@
 * PlayStore(https://play.google.com/store/apps/details?id=com.ryoobk.dustdust&hl=ko)
 * AppStore(https://itunes.apple.com/kr/app/dust/id1434796687?mt=8)
 
-<img src="./resources/dust_1.png" width="20%" /><img src="./resources/dust_2.png" width="20%" /><img src="./resources/dust_3.png" width="20%" /><img src="./resources/dust_4.png" width="20%" />
+<img src="./resources/dust_1.jpg" width="20%" /><img src="./resources/dust_2.png" width="20%" /><img src="./resources/dust_3.jpg" width="20%" /><img src="./resources/dust_4.jpg" width="20%" />
 
 
 
